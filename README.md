@@ -1,3 +1,6 @@
+#How to run?
+Just download all files and then run React.html file.
+
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.
